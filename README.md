@@ -1,5 +1,23 @@
-# 💫 About Me:
-I am an IT enthusiast focused on building strong foundations in networking and cybersecurity, including how networks are structured, how threats occur, and how systems can be protected through proper configuration and monitoring. I am currently learning IP addressing and subnetting, and how proper network segmentation improves performance and security.<br><br>Alongside cybersecurity, I develop mobile applications as side projects, where I work on features such as authentication, databases, REST API integration, and basic image processing. These projects help me understand how secure systems should be designed from both the network and application perspective.<br><br>I enjoy building real-world projects that solve practical problems, especially in areas like waste management, productivity, and system monitoring.
+## 💫 About Me:
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
+I am an IT enthusiast focused on building strong foundations in networking and cybersecurity, including how networks are structured, how threats occur, and how systems can be protected through proper configuration and monitoring. I am currently learning IP addressing and subnetting, and how proper network segmentation improves performance and security.<br><br>
+
+Alongside cybersecurity, I develop mobile applications as side projects, where I work on features such as authentication, databases, REST API integration, and basic image processing. These projects help me understand how secure systems should be designed from both the network and application perspective.<br><br>
+
+I enjoy building real-world projects that solve practical problems, especially in areas like waste management, productivity, and system monitoring.
+
+</td>
+<td width="35%" align="center">
+
+<img src="[https://tenor.com/view/ranni-moon-goddes-pixel-art-pixel-elden-ring-gif-2577294687061280078]" width="250"/>
+
+</td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
