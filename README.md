@@ -13,7 +13,7 @@ I enjoy building real-world projects that solve practical problems, especially i
 </td>
 <td width="35%" align="center">
 
-<img src="[https://tenor.com/view/ranni-moon-goddes-pixel-art-pixel-elden-ring-gif-2577294687061280078]" width="250"/>
+<img src="<div class="tenor-gif-embed" data-postid="13840432656668983630" data-share-method="host" data-aspect-ratio="1.09211" data-width="100%"><a href="https://tenor.com/view/ranni-elden-ring-gif-13840432656668983630">Ranni Elden Ring Sticker</a>from <a href="https://tenor.com/search/ranni+elden+ring-stickers">Ranni Elden Ring Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="250"/>
 
 </td>
   </tr>
