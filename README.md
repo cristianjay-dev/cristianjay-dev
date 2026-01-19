@@ -13,7 +13,7 @@ I enjoy building real-world projects that solve practical problems, especially i
 </td>
 <td width="35%" align="center">
 
-<img src="https://tenor.com/deycsqEjOkQ.gif" width="250"/>
+<img src="[https://tenor.com/deycsqEjOkQ.gif]" width="250"/>
 
 </td>
   </tr>
