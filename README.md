@@ -13,10 +13,12 @@ I enjoy building real-world projects that solve practical problems, especially i
 </td>
 <td width="35%" align="center">
 
-<img src="https://tenor.com/qEzuwx0Vus6.gif" width="250"/>
+<img src="https://media.tenor.com/wBMYK-Z4gU4AAAAj/ranni-elden-ring.gif" width="250"/>
 
 </td>
   </tr>
+</table>
+
 </table>
 
 
