@@ -13,7 +13,7 @@ I enjoy building real-world projects that solve practical problems, especially i
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.tenor.com/wBMYK-Z4gU4AAAAj/ranni-elden-ring.gif" width="250"/>
+<img src="https://media1.tenor.com/m/I8Rj3N_KBU4AAAAC/ranni-moon-goddes.gif" width="250"/>
 
 </td>
   </tr>
